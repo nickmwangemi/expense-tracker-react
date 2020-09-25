@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ac8ebff6-04c1-4721-bf85-72a97ebd0cab/deploy-status)](https://app.netlify.com/sites/expense-tracker-react-nick/deploys)
+
 # Expense-Tracker
 
 This is a simple expense tracker app made with React.
