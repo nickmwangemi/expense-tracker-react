@@ -2,7 +2,9 @@
 
 This is a simple expense tracker app made with React.
 
-## Local Setup
+![Expense Tracker](src/img/expense-tracker.png)
+
+### Local Setup
 
 To setup this project locally,
 
